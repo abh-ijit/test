@@ -1,0 +1,22 @@
+.loading-text{
+    font-size: 80px;
+    text-align: center;
+    color: red;
+    margin: 50px auto;
+}
+.product-heading {
+    font-size: 40px;
+}
+img, .card-img {
+    height:200px;
+    width: 100%;
+    object-fit: cover;
+    max-width: 100%;
+}
+img:hover{
+    transition: all 0.2s ease;
+    transform: scale(1.1);
+}
+.card {
+    
+}
